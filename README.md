@@ -1,64 +1,58 @@
-🍣 Sushi Website
-A responsive, modern sushi website built with HTML, CSS, and JavaScript — inspired by the JavaScript Mastery tutorial, with my own enhancements and creative touches.
+# 🍣 Sushi Website
 
-📌 Features
-Smooth scroll animations with AOS
+A modern, responsive sushi website built with **HTML**, **CSS**, and **JavaScript** — inspired by JavaScript Mastery's tutorial, enhanced with my own animations and strategies.
 
-Responsive layout using Flexbox and media queries
+---
 
-Reusable components and functions in JavaScript
+## 📌 Features
 
-BEM methodology for clean CSS class naming
+- 🔹 Smooth scroll animations with [AOS]
+- 🔹 Responsive layout using **Flexbox** and **media queries**
+- 🔹 Reusable JavaScript functions for rendering HTML
+- 🔹 Clean and scalable class naming using **BEM**
+- 🔹 Organized folder structure for maintainability
+- 🔹 CSS variables for consistent design
 
-Organized folder structure
+### ✅ Sections
 
-Sections:
+- Navigation Bar  
+- Hero Section  
+- About Us  
+- Popular Food  
+- Trending Sushi  
+- Drinks  
+- Newsletter Signup  
+- Footer
 
-✅ Navigation Bar
+---
 
-✅ Hero Section
+## 🛠 Tech Stack
 
-✅ About Us
+- HTML5  
+- CSS3  
+- JavaScript  
+- [Vite](https://vitejs.dev)  
+- [AOS (Animate On Scroll)]( npm install aos --save)
 
-✅ Popular Food
+---
 
-✅ Trending Sushi
+## 🚀 Getting Started
 
-✅ Drinks
+### 🔧 Prerequisites
 
-✅ Newsletter Signup
-
-✅ Footer
-
-🛠 Tech Stack
-HTML5
-
-CSS3 (with variables & BEM)
-
-JavaScript
-
-Vite
-
-AOS (Animate On Scroll)
-
-🚀 Getting Started
-Prerequisites
 Make sure you have the following installed:
 
-Git
+- [Git](https://git-scm.com)  
+- [Node.js](https://nodejs.org)  
+- npm (comes with Node.js)
 
-Node.js
+### 📥 Installation
 
-npm (comes with Node.js)
+```bash
+# Clone the repository
+git clone https://github.com/Moonis67/Sushiman-html_css-project
 
-Installation
-bash
-Copy
-Edit
-# Clone the repo
-git clone https://github.com/your-username/sushi-website.git
-
-# Navigate into the project directory
+# Navigate into the directory
 cd sushi-website
 
 # Install dependencies
@@ -66,10 +60,15 @@ npm install
 
 # Start the development server
 npm run dev
-Open your browser and go to:
-👉 http://localhost:5173
+```
+### Snippets
+![image](https://github.com/user-attachments/assets/9eae761a-da6a-41c9-b900-b928fc65dc01)
+![image](https://github.com/user-attachments/assets/5a77004a-171f-4c05-9111-74703952d5db)
+![image](https://github.com/user-attachments/assets/f0b322c7-afa2-4c00-90d1-788397967b2c)
+![image](https://github.com/user-attachments/assets/20c83890-5a02-4074-9389-ef0b6ce382aa)
+![image](https://github.com/user-attachments/assets/f5d847d5-6526-4208-9a3d-31ebae3ed8be)
 
-🎥 Tutorial Credit
-Original tutorial by JavaScript Mastery.
-I followed the base walkthrough and added my own features, structure, and animations.
+open site on localhost for animations effects*
+Enjoy!
+
 
