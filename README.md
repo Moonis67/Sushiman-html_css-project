@@ -1,51 +1,75 @@
+🍣 Sushi Website
+A responsive, modern sushi website built with HTML, CSS, and JavaScript — inspired by the JavaScript Mastery tutorial, with my own enhancements and creative touches.
 
-I created 🍣 Sushi Website!
-This is a modern, fully responsive sushi website I built by following the JavaScript Mastery tutorial — with my own creative twists and enhancements.
+📌 Features
+Smooth scroll animations with AOS
 
-🧠 What I Learned & Applied
-I focused on writing clean HTML/CSS, modular JavaScript, and used techniques like:
+Responsive layout using Flexbox and media queries
 
-AOS (Animate On Scroll) for scroll animations
+Reusable components and functions in JavaScript
 
-CSS Variables for consistent styling
+BEM methodology for clean CSS class naming
 
-Flexbox & Positioning for responsive layout
+Organized folder structure
 
-BEM Naming for better structure
+Sections:
 
-Reusable JavaScript functions for rendering content
+✅ Navigation Bar
 
-Media queries & fluid design for mobile responsiveness
+✅ Hero Section
 
-💡 Sections Included
-Navigation Bar
+✅ About Us
 
-Hero Section with smooth animations
+✅ Popular Food
 
-About Us
+✅ Trending Sushi
 
-Popular Food, Trending Sushi, and Drinks
+✅ Drinks
 
-Newsletter Signup
+✅ Newsletter Signup
 
-Footer
+✅ Footer
 
 🛠 Tech Stack
 HTML5
 
-CSS3
+CSS3 (with variables & BEM)
 
 JavaScript
 
 Vite
 
-AOS Library
+AOS (Animate On Scroll)
 
-⚙️ Getting Started
+🚀 Getting Started
+Prerequisites
+Make sure you have the following installed:
+
+Git
+
+Node.js
+
+npm (comes with Node.js)
+
+Installation
 bash
 Copy
 Edit
+# Clone the repo
 git clone https://github.com/your-username/sushi-website.git
+
+# Navigate into the project directory
 cd sushi-website
+
+# Install dependencies
 npm install
+
+# Start the development server
 npm run dev
+Open your browser and go to:
+👉 http://localhost:5173
+
+🎥 Tutorial Credit
+Original tutorial by JavaScript Mastery.
+I followed the base walkthrough and added my own features, structure, and animations.
+
